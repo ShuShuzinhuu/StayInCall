@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ShuShuzinhuu">
-    <img src="https://github.com/ShuShuzinhuu.png" width="96" height="96" alt="ShuShuzinhuu" style="border-radius: 50%">
-  </a>
-</p>
-
 <h1 align="center">StayInCall</h1>
 
 <p align="center">A Vencord userplugin that keeps you in a chosen voice channel, reconnects automatically, and toggles AFK mode with a keybind.</p>
