@@ -24,10 +24,15 @@
 
 This is a userplugin, so you need to [build Vencord from source](https://docs.vencord.dev/installing/).
 
-1. Copy this folder to `Vencord/src/userplugins/stayInCall`
+1. Inside your Vencord folder, run:
+   ```sh
+   git clone https://github.com/ShuShuzinhuu/StayInCall src/userplugins/stayInCall
+   ```
 2. Run `pnpm build`
 3. On Vesktop, set **Settings → Vesktop Settings → Vencord Location** to `Vencord/dist`, then restart
 4. Enable **StayInCall** under **Settings → Vencord → Plugins**
+
+To update, run `git pull` inside `src/userplugins/stayInCall` and build again.
 
 ## Note
 
